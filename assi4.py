@@ -11,3 +11,4 @@ def pop(a):
 stack=[]
 print(push(stack,11))
 print(push(stack,22))
+#hacktoberfest
